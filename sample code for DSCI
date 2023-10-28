@@ -1,3 +1,4 @@
 import pandas as pd
 url = https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification/data
 read_data = pd.read_csv("url")
+read_data
